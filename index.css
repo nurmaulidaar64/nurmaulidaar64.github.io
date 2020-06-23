@@ -1,0 +1,16 @@
+h1{background-color: salmon;}
+h3{background-color: salmon;}
+h2{color: red ; border: 2px solid black}
+p {font-style: 'strong'}
+body {background-image: url('bekgron.jpg');}
+img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	display:block;
+	margin: auto;
+}
+li {font-family: monospace;}
+li {font-size: 12px}
+p {text-align: center;}
+<li style='list-style-type: none;'><a href="index.css"></a><li>
